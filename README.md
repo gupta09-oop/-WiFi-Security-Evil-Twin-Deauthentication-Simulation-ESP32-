@@ -67,7 +67,9 @@ This project is not just about demonstrating the attack, but also about learning
 
 ## 📖 References
 - [PhiSiFi Project (Base Repo)](https://github.com/p3tr0s/PhiSiFi)  
-- WiFi Security Research (802.11 attacks, Evil Twin, Deauth)  
+- WiFi Security Research (802.11 attacks, Evil Twin, Deauth)
+- This project is based on PhiSiFi
+. I tested and documented it on ESP32 NodeMCU with an additional write-up.”
 
 ---
 
