@@ -57,3 +57,20 @@ This project is not just about demonstrating the attack, but also about learning
 ---
 
 ## 📂 Repository Structure
+.
+├── src/ # Arduino/ESP32 source code
+├── docs/ # Screenshots & documentation
+├── README.md # Project documentation
+
+
+---
+
+## 📖 References
+- [PhiSiFi Project (Base Repo)](https://github.com/p3tr0s/PhiSiFi)  
+- WiFi Security Research (802.11 attacks, Evil Twin, Deauth)  
+
+---
+
+## 👨‍💻 Author
+Project created by [Kshitij Gupta](https://github.com/gupta09-oop)  
+Cybersecurity Student | WiFi Security Enthusiast
